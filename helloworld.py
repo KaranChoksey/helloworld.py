@@ -5,3 +5,4 @@ for i in range(4):
 a=["apple","banana","mango"]
 for i in a:
     print(i)
+print("hi")
